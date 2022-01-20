@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clbonner
-- 👀 I’m interested in C, PHP, Javascript
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in C, PHP, Javascript, Python
+- 🌱 I’m currently learning Web Development and Software Engineering
 
 <!---
 clbonner/clbonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
